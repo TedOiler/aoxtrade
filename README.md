@@ -4,10 +4,6 @@
 
 This repository contains my solution to the AOX Trade company interview case study, which focuses on analyzing the relationship between key commodities and power prices within the Polish electricity market. As a power trader, the goal is to develop various forecasts to inform trading strategies for the upcoming week.
 
-## Background
-
-The Polish power market is predominantly fueled by coal and gas-fired power plants, with a rapidly increasing share of renewable energy sources. Recent geopolitical events, including the war in Ukraine, have led to heightened volatility in natural gas prices, significantly impacting electricity prices across Europe.
-
 ## Dataset
 
 The analysis uses a comprehensive dataset for Poland, which includes:
@@ -175,20 +171,3 @@ jupyter notebook task4/task4.ipynb
 3. **Price forecasts** for the specified week with confidence intervals
 4. **Risk assessment** considering various market factors
 5. **Actionable insights** for power trading decisions
-
-## Market Context
-
-This analysis is particularly relevant given:
-- **Energy transition** towards renewable sources
-- **Geopolitical instability** affecting gas supplies
-- **Carbon pricing** mechanisms (EU ETS)
-- **Market liberalization** in European electricity markets
-- **Seasonal patterns** in both demand and renewable generation
-
-## Contributing
-
-This is a case study project for power trading analysis. The methodology and findings can be extended to other electricity markets or adapted for different time periods.
-
-## License
-
-This project is for educational and analytical purposes related to energy market analysis.
