@@ -1,0 +1,5 @@
+series,mean,trend_slope_%/yr,season_strength,season_amp_%
+daily,129.0,-30.6,0.4,31.3
+weekly,128.7,-46.4,0.9,147.1
+monthly,128.4,-46.2,1.0,59.9
+quarterly,128.1,-46.3,0.9,45.5

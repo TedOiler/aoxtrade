@@ -6,27 +6,22 @@ numpy>=1.21.0
 matplotlib>=3.5.0
 seaborn>=0.11.0
 
-# Machine learning and statistical analysis
-scikit-learn>=1.1.0
-scipy>=1.9.0
+# Functional data analysis
+scikit-fda>=0.8.0
 
-# Excel file handling
-openpyxl>=3.0.0
-xlrd>=2.0.0
+# Time series analysis and statistical modeling
+statsmodels>=0.13.0
+pmdarima>=2.0.0
 
 # Jupyter notebook support
 jupyter>=1.0.0
 ipykernel>=6.0.0
+ipython>=8.0.0
 
 # Additional utilities
 python-dateutil>=2.8.0
 pytz>=2022.1
 
-# Optional: Advanced statistical analysis
-statsmodels>=0.13.0
-
-# Optional: Interactive plotting
-plotly>=5.0.0
-
-# Optional: Financial analysis tools
-yfinance>=0.1.70
+# Excel file handling (for data preprocessing)
+openpyxl>=3.0.0
+xlrd>=2.0.0
